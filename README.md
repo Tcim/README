@@ -165,7 +165,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 
 |语法|效果|
 |----|-----|
-|`[我的简介](/example/profile.md)`|[我的简介](/example/profile a.md)|
+|`[我的简介](/example/profile.md)`|[我的简介](/example/profile.md)|
 |`[example](./example)`|[example](./example)|
 
 ### 图片链接
